@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">fragment_dialog_demo</string>
+    <string name="push_me">push me</string>
+</resources>
